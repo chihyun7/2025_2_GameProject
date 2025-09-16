@@ -1,8 +1,7 @@
 
-
 public enum BuildingType
 {
-    Restaurant,             
-    Customer,          
-    ChargingStation         
+    Restaurant,
+    Customer,
+    ChargingStation
 }
